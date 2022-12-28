@@ -1,0 +1,8 @@
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\5. Основы C# в Unity\Урок 5\Исходники\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\5. Основы C# в Unity\Урок 5\Исходники\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\5. Основы C# в Unity\Урок 5\Исходники\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\5. Основы C# в Unity\Урок 5\Исходники\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\5. Основы C# в Unity\Урок 5\Исходники\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.SuggestedBindingRedirects.cache
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\5. Основы C# в Unity\Урок 5\Исходники\HomeWork\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\5. Основы C# в Unity\Урок 5\Исходники\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+D:\Карьера\Геймдев и геймдизайн\Geekbrains - курс разработчика на Unity\2. 1 четверть. Введение в разработку игр на Unity\5. Основы C# в Unity\Урок 5\Исходники\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
